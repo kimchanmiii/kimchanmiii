@@ -2,9 +2,9 @@
   
   ## Hi there 👋
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimchanmiii&count_bg=%239085E3&title_bg=%23BDBE1B&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+  ![hNciklO](https://user-images.githubusercontent.com/54922827/172021939-80ec1337-984d-4ecf-8a77-61e336c0c1bd.gif)
   
-  ![1786b119778bb1ca718047c3a20e7285](https://user-images.githubusercontent.com/54922827/172020108-f93ef2a4-edd3-4e95-9bb6-378500528b1b.gif)
-
   #### 📚 Tech Stack 📚
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
