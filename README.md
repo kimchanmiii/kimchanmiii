@@ -20,10 +20,7 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchanmiii)](https://github.com/kimchanmiii/github-readme-stats)</a>
-  
-  #### 💻 Algorithm 💻
+    
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=algokcm777)](https://solved.ac/algokcm777)
 
