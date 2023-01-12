@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchanmiii&show_icons=true&theme=aura_dark)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=algokcm777)](https://solved.ac/algokcm777)
 
 </div>
 
