@@ -3,7 +3,7 @@
   ## Hi there 👋
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimchanmiii&count_bg=%239085E3&title_bg=%23BDBE1B&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  ![로고-네이비](https://github.com/kimchanmiii/kimchanmiii/assets/54922827/16132305-94d2-4da8-b8f3-45e1817aa07d)
+  ![로고-네이비](https://github.com/kimchanmiii/kimchanmiii/assets/54922827/29cd6efe-9939-4bac-a2f7-adcac877d257)
  
   #### 📚 Tech Stack 📚
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
