@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+
+  ![로고-네이비](https://github.com/kimchanmiii/kimchanmiii/assets/54922827/9cebc152-ce9d-4a2a-b53d-967da6967b2d)
       
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=algokcm777)](https://solved.ac/algokcm777)
